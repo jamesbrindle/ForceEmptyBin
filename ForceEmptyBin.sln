@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceEmptyBin", "ForceEmptyBin\ForceEmptyBin.csproj", "{4F70F140-D5B6-421D-9345-B70DDFA294C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README.md", "README.md", "{9B696063-FF42-4F29-AFA1-0770C2AA5F81}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F70F140-D5B6-421D-9345-B70DDFA294C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F70F140-D5B6-421D-9345-B70DDFA294C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F70F140-D5B6-421D-9345-B70DDFA294C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F70F140-D5B6-421D-9345-B70DDFA294C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0551E3F1-D74F-46FA-8753-C9009E411A97}
+	EndGlobalSection
+EndGlobal
