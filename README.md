@@ -8,4 +8,4 @@ The solution is to simply open a command prompt as adminstrator and run: "rd /s 
 
 This app does just this, by iterating over your drives and running this delete command.
 
-It also uses NirCmd.exe to empty the bin, just to finish it off.
+It also uses NirCmd.exe to empty the bin, just to finish it off. This should also 'refresh' the Recycle Bin icon.
